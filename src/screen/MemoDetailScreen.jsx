@@ -25,7 +25,7 @@ function MemoDetailScreen() {
           quasi reprehenderit id fugit illum harum nemo a pariatur.
         </Text>
       </ScrollView>
-      <CircleButton style={{ top: 160 }} />
+      <CircleButton style={{ top: 160 }} name="edit-2" />
     </View>
   );
 }
